@@ -2,6 +2,7 @@
 
 ## The little red haired girl
 
+
 **Once upon a time** in a small village, lived a little red haired girl.
 Her father and mother lived with her in a house in the forest near the
 village. They all had a happy life until something happened to them...
@@ -27,17 +28,15 @@ She felt a burning sensation inside , and started to rap:
 ### En vaak denk ik aan vroeger, ik weet waar het begon
 ### Nu denk ik aan miljoenen, nee vraag me niet waarom
 
-<<<<<<< HEAD
 
 We love [GitHub](https://github.com) so much :heart:
 
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
-=======
 ## **All you need is love, love, love
 ## Love is all you need**
->>>>>>> c32331bcb3622d8c308962470657a9e878a59b8b
+ c32331bcb3622d8c308962470657a9e878a59b8b
 
 ##I'm not going to write.
 _In your stupid repo._
