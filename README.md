@@ -19,3 +19,7 @@ When she arrived home, she felt the amulet burning in her pocket.
 She placed the amulet on the table and it started glowing.
 But the little red haired girl was tired and decided to take a nap.
 
+After waking up of what felt like a life long nap,
+she got up, sat in a chair and put the amulet in her lap.
+She felt a burning sensation inside , and started to rap:
+
