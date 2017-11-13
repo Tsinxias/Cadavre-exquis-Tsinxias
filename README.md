@@ -42,3 +42,7 @@ Master and branches power
 ##I'm not going to write.
 _In your stupid repo._
 *Really not,i'm not a sheep*
+
+###The first word that came out was _HIP HOP HORRAYYY_
+*Then the Amulet turned back into a mic, in front of her was a huge crowd and she was standing on the stage.*
+**Ready to perform the show of her life** 
