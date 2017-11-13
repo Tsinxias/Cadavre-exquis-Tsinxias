@@ -15,7 +15,5 @@ When she arrived home, she felt the amulet burning in her pocket.
 She placed the amulet on the table and it started glowing.
 But the little red haired girl was tired and decided to take a nap.
 
-### Ik ging slapen met een doezoe, werd wakker met een ton
-### En vaak denk ik aan vroeger, ik weet waar het begon
-### Nu denk ik aan miljoenen, nee vraag me niet waarom
+
 
