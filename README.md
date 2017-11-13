@@ -23,3 +23,6 @@ After waking up of what felt like a life long nap,
 she got up, sat in a chair and put the amulet in her lap.
 She felt a burning sensation inside , and started to rap:
 
+### Ik ging slapen met een doezoe, werd wakker met een ton
+### En vaak denk ik aan vroeger, ik weet waar het begon
+### Nu denk ik aan miljoenen, nee vraag me niet waarom
