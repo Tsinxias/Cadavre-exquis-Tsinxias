@@ -7,13 +7,60 @@
 Her father and mother lived with her in a house in the forest near the
 village. They all had a happy life until something happened to them...
 
+
+One day, the little girl was walking back from picking up berries in the woods.
+As she made her way back home, she started hearing some strange noises through the bushes.
+At first, she didn't think much of it, forests are living organisms and she had grown up in one of them.
+
 One day she was in the forest gathering mushrooms.
 She stumbled upon a strange amulet, but didn't pay too much attention to it and just took it.
 She finished her little walk and went home.
 
-When she arrived home, she felt the amulet burning in her pocket. 
+When she arrived home, she felt the amulet burning in her pocket.
 She placed the amulet on the table and it started glowing.
-But the little red haired girl was tired and decided to take a nap.
+But the little red haired girl was tired and decided to take
 
+
+=======
+After waking up of what felt like a life long nap,
+she got up, sat in a chair and put the amulet in her lap.
+She felt a burning sensation inside , and started to rap:
+
+### Ik ging slapen met een doezoe, werd wakker met een ton
+### En vaak denk ik aan vroeger, ik weet waar het begon
+### Nu denk ik aan miljoenen, nee vraag me niet waarom
+
+
+
+We love [GitHub](https://github.com) so much :heart:
+
+It will be so *fun* when everybody will use it and we should manage `100` conflicts.
+
+Master and branches power
+=======
+## **All you need is love, love, love
+## Love is all you need**b
+
+##I'm not going to write.
+_In your stupid repo._
+*Really not,i'm not a sheep*
+
+###The first word that came out was _HIP HOP HORRAYYY_
+*Then the Amulet turned back into a mic, in front of her was a huge crowd and she was standing on the stage.*
+
+**Ready to perform the show of her life** 
+
+# Ohana
+
+Ohana means family, Family means nobody gets left behind or forgotten.
+=======
+**Ready to perform the show of her life**
+
+There once was an andoid named _2B_
+
+She was part of the *YoRHa* group
+> This group was created for mankind's salavation after being invaded from space
+
+# This is Barack obama coding with you
 
 
