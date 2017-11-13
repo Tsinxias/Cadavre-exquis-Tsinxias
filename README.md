@@ -2,6 +2,7 @@
 
 ## The little red haired girl
 
+
 **Once upon a time** in a small village, lived a little red haired girl.
 Her father and mother lived with her in a house in the forest near the
 village. They all had a happy life until something happened to them...
@@ -17,8 +18,10 @@ She finished her little walk and went home.
 
 When she arrived home, she felt the amulet burning in her pocket.
 She placed the amulet on the table and it started glowing.
-But the little red haired girl was tired and decided to take a nap.
+But the little red haired girl was tired and decided to take
 
+
+=======
 After waking up of what felt like a life long nap,
 she got up, sat in a chair and put the amulet in her lap.
 She felt a burning sensation inside , and started to rap:
@@ -27,7 +30,7 @@ She felt a burning sensation inside , and started to rap:
 ### En vaak denk ik aan vroeger, ik weet waar het begon
 ### Nu denk ik aan miljoenen, nee vraag me niet waarom
 
-<<<<<<< HEAD
+
 
 We love [GitHub](https://github.com) so much :heart:
 
@@ -36,8 +39,7 @@ It will be so *fun* when everybody will use it and we should manage `100` confli
 Master and branches power
 =======
 ## **All you need is love, love, love
-## Love is all you need**
->>>>>>> c32331bcb3622d8c308962470657a9e878a59b8b
+## Love is all you need**b
 
 ##I'm not going to write.
 _In your stupid repo._
@@ -45,7 +47,9 @@ _In your stupid repo._
 
 ###The first word that came out was _HIP HOP HORRAYYY_
 *Then the Amulet turned back into a mic, in front of her was a huge crowd and she was standing on the stage.*
-<<<<<<< HEAD
+
+
+
 **Ready to perform the show of her life**
 
 # Ohana
@@ -58,7 +62,7 @@ There once was an andoid named _2B_
 
 She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
->>>>>>> c0d89c2832fe45a862c5f6d0660f21ff9777bc6d
+
 
  As she started to sing what come to her mind, she was horrified to discover that she was singing in a language she didn't understand.
  Worse, she was impersonating La belette and screaming "Moi hamdoullah �a va!".
