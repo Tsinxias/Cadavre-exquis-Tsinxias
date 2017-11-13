@@ -38,3 +38,7 @@ Master and branches power
 ## **All you need is love, love, love
 ## Love is all you need**
 >>>>>>> c32331bcb3622d8c308962470657a9e878a59b8b
+
+##I'm not going to write.
+_In your stupid repo._
+*Really not,i'm not a sheep*
