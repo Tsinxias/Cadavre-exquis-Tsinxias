@@ -45,8 +45,17 @@ _In your stupid repo._
 
 ###The first word that came out was _HIP HOP HORRAYYY_
 *Then the Amulet turned back into a mic, in front of her was a huge crowd and she was standing on the stage.*
+<<<<<<< HEAD
 **Ready to perform the show of her life** 
 
 # Ohana
 
 Ohana means family, Family means nobody gets left behind or forgotten.
+=======
+**Ready to perform the show of her life**
+
+There once was an andoid named _2B_
+
+She was part of the *YoRHa* group
+> This group was created for mankind's salavation after being invaded from space
+>>>>>>> c0d89c2832fe45a862c5f6d0660f21ff9777bc6d
