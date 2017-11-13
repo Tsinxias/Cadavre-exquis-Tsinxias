@@ -15,7 +15,7 @@ One day she was in the forest gathering mushrooms.
 She stumbled upon a strange amulet, but didn't pay too much attention to it and just took it.
 She finished her little walk and went home.
 
-When she arrived home, she felt the amulet burning in her pocket. 
+When she arrived home, she felt the amulet burning in her pocket.
 She placed the amulet on the table and it started glowing.
 But the little red haired girl was tired and decided to take a nap.
 
@@ -27,9 +27,14 @@ She felt a burning sensation inside , and started to rap:
 ### En vaak denk ik aan vroeger, ik weet waar het begon
 ### Nu denk ik aan miljoenen, nee vraag me niet waarom
 
+<<<<<<< HEAD
 
 We love [GitHub](https://github.com) so much :heart:
 
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
+=======
+## **All you need is love, love, love
+## Love is all you need**
+>>>>>>> c32331bcb3622d8c308962470657a9e878a59b8b
