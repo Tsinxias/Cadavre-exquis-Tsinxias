@@ -19,3 +19,8 @@ When she arrived home, she felt the amulet burning in her pocket.
 She placed the amulet on the table and it started glowing.
 But the little red haired girl was tired and decided to take a nap.
 
+What is the difference between a snowman and a snowwoman?
+-
+Snowballs.
+
+
