@@ -70,3 +70,5 @@ She was part of the *YoRHa* group
 
   Get up stand up,
   stand up for your right
+
+  A git pull a day keeps merging problems away..
