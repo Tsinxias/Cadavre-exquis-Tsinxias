@@ -59,3 +59,7 @@ There once was an andoid named _2B_
 She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
 >>>>>>> c0d89c2832fe45a862c5f6d0660f21ff9777bc6d
+ 
+ As she started to sing what come to her mind, she was horrified to discover that she was singing in a language she didn't understand.
+ Worse, she was impersonating La belette and screaming "Moi hamdoullah ça va!".
+  How would she ever recover from experiencing such an alarmingly low level of music sense and lyrical genius ?
