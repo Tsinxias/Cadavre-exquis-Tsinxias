@@ -48,6 +48,8 @@ _In your stupid repo._
 ###The first word that came out was _HIP HOP HORRAYYY_
 *Then the Amulet turned back into a mic, in front of her was a huge crowd and she was standing on the stage.*
 
+
+
 **Ready to perform the show of her life**
 
 # Ohana
@@ -61,6 +63,10 @@ There once was an andoid named _2B_
 She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
 
+
  As she started to sing what come to her mind, she was horrified to discover that she was singing in a language she didn't understand.
  Worse, she was impersonating La belette and screaming "Moi hamdoullah �a va!".
   How would she ever recover from experiencing such an alarmingly low level of music sense and lyrical genius ?
+
+  Get up stand up,
+  stand up for your right
