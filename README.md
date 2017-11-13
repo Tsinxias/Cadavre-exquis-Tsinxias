@@ -15,7 +15,7 @@ One day she was in the forest gathering mushrooms.
 She stumbled upon a strange amulet, but didn't pay too much attention to it and just took it.
 She finished her little walk and went home.
 
-When she arrived home, she felt the amulet burning in her pocket. 
+When she arrived home, she felt the amulet burning in her pocket.
 She placed the amulet on the table and it started glowing.
 But the little red haired girl was tired and decided to take a nap.
 
@@ -26,3 +26,6 @@ She felt a burning sensation inside , and started to rap:
 ### Ik ging slapen met een doezoe, werd wakker met een ton
 ### En vaak denk ik aan vroeger, ik weet waar het begon
 ### Nu denk ik aan miljoenen, nee vraag me niet waarom
+
+## **All you need is love, love, love
+## Love is all you need**
