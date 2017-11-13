@@ -72,3 +72,7 @@ She was part of the *YoRHa* group
   stand up for your right
 
   A git pull a day keeps merging problems away..
+  
+  # Im just making a mess on everyones repository.
+## Because i don't understand the exercise very wel.
+### I hope i'm doing it right.
