@@ -26,3 +26,10 @@ She felt a burning sensation inside , and started to rap:
 ### Ik ging slapen met een doezoe, werd wakker met een ton
 ### En vaak denk ik aan vroeger, ik weet waar het begon
 ### Nu denk ik aan miljoenen, nee vraag me niet waarom
+
+
+We love [GitHub](https://github.com) so much :heart:
+
+It will be so *fun* when everybody will use it and we should manage `100` conflicts.
+
+Master and branches power
