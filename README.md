@@ -46,3 +46,7 @@ _In your stupid repo._
 ###The first word that came out was _HIP HOP HORRAYYY_
 *Then the Amulet turned back into a mic, in front of her was a huge crowd and she was standing on the stage.*
 **Ready to perform the show of her life** 
+
+# Ohana
+
+Ohana means family, Family means nobody gets left behind or forgotten.
