@@ -18,10 +18,8 @@ She finished her little walk and went home.
 
 When she arrived home, she felt the amulet burning in her pocket.
 She placed the amulet on the table and it started glowing.
-But the little red haired girl was tired and decided to take
+But the little red haired girl was tired and decided to take a nap.
 
-
-=======
 After waking up of what felt like a life long nap,
 she got up, sat in a chair and put the amulet in her lap.
 She felt a burning sensation inside , and started to rap:
@@ -37,7 +35,7 @@ We love [GitHub](https://github.com) so much :heart:
 It will be so *fun* when everybody will use it and we should manage `100` conflicts.
 
 Master and branches power
-=======
+
 ## **All you need is love, love, love
 ## Love is all you need**b
 
@@ -55,8 +53,7 @@ _In your stupid repo._
 # Ohana
 
 Ohana means family, Family means nobody gets left behind or forgotten.
-=======
-**Ready to perform the show of her life**
+
 
 There once was an andoid named _2B_
 
